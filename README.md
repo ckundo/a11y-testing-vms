@@ -1,4 +1,4 @@
-# How-to: Windows VM for accessibility QA on OS X
+# Testing screen reader accessibility with IE on OS X
 How to configure a VirtualBox Windows VM for testing accessibility on OS X
 
 ## Host machine setup
@@ -21,7 +21,7 @@ How to configure a VirtualBox Windows VM for testing accessibility on OS X
   - Choose the NVDA item from the Notifications menu in the Windows taskbar and choose Preferences > Keyboard Settings
   - Select "laptop" from the keyboard layout dropdown
   - Check the box "Use CapsLock as an NVDA modifier key"
-4. Review the user guide for [instructions on navigation](http://www.nvaccess.org/files/nvda/documentation/userGuide.html?#toc29).
+4. Review the user guide for [instructions on navigation](http://www.nvaccess.org/files/nvda/documentation/userGuide.html?#toc29) and start visiting content.
 5. Save a snapshot of the VM to revert to when the Windows license expires.
 
 ## Protips
