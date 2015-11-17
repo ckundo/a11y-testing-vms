@@ -23,7 +23,7 @@ How to configure a VirtualBox Windows VM for testing accessibility on OS X
   - Choose the NVDA item from the Notifications menu in the Windows taskbar and choose Preferences > Keyboard Settings
   - Select "laptop" from the keyboard layout dropdown
   - Check the box "Use CapsLock as an NVDA modifier key"
-4. Review the user guide for [instructions on navigation](http://www.nvaccess.org/files/nvda/documentation/userGuide.html?#toc29) and start visiting content.
+4. Review the user guide for [instructions on navigation](http://www.nvaccess.org/files/nvda/documentation/userGuide.html?#toc29) and start visiting content. (hint: capslock + down arrow will get the NVDA cursor focus moving about and announcing web content)
 
 ## Protips
 - wear headphones when using screen readers.
