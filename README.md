@@ -14,6 +14,8 @@ How to configure a VirtualBox Windows VM for testing accessibility on OS X
 
 ## Virtual machine setup
 
+### NVDA
+
 1. Download and open the [NVDA screen reader installer](http://www.nvaccess.org/download/).
 2. Change the default voice: 
   - Choose the NVDA item from the Notifications menu in the Windows taskbar and choose Preferences > Synthesizer > Microsoft Speech API <latest version>
@@ -22,8 +24,8 @@ How to configure a VirtualBox Windows VM for testing accessibility on OS X
   - Select "laptop" from the keyboard layout dropdown
   - Check the box "Use CapsLock as an NVDA modifier key"
 4. Review the user guide for [instructions on navigation](http://www.nvaccess.org/files/nvda/documentation/userGuide.html?#toc29) and start visiting content.
-5. Save a snapshot of the VM to revert to when the Windows license expires.
 
 ## Protips
-- wear headphones when using screen readers
-- shift key pauses speech in NVDA
+- wear headphones when using screen readers.
+- shift key pauses speech in NVDA.
+- Save a snapshot of the VM to revert to when the Windows license expires.
