@@ -1,4 +1,4 @@
-# Testing screen reader accessibility with IE on OS X
+# Test screen reader accessibility with IE on OS X
 How to configure a VirtualBox Windows VM for testing accessibility on OS X
 
 ## Host machine setup
