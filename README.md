@@ -9,7 +9,10 @@ How to configure a VirtualBox Windows VM for testing accessibility on OS X
 
 ### Windows image
 
-1. Download the latest version of Windows/IE from <https://dev.windows.com/en-us/microsoft-edge/tools/vms/mac/>.
+1. Download versions of Windows/IE from Microsoft:
+   a. For Mac: <https://dev.windows.com/en-us/microsoft-edge/tools/vms/mac/>
+   b. For Windows: <https://dev.windows.com/en-us/microsoft-edge/tools/vms/windows/>
+   c. For Linux: <https://dev.windows.com/en-us/microsoft-edge/tools/vms/linux/>
 2. Unarchive and open the VM image in VirtualBox.
 
 ## Virtual machine setup
